@@ -1,0 +1,23 @@
+{
+  "name": "tpl",
+  "version": "1.0.0",
+  "description": "基于字符串的模版引擎",
+  "main": "rollup.config.js",
+  "scripts": {
+    "dev": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojowork/tpl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojowork/tpl/issues"
+  },
+  "homepage": "https://github.com/mojowork/tpl#readme",
+  "devDependencies": {
+    "webpack": "^5.13.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
